@@ -839,10 +839,11 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ Gender :
+├ Wibu? :
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Beban Group Telah keluar🗿 Mental aman kan Mazehh?/Mbake?
+	return`AwokAwok Klau gk niat masuk gc gk Usah join dek
 Goodbye`
 }
 exports.source = () =>{
@@ -861,7 +862,6 @@ Gakda donasi tapi kalau mau donasi nomer
 083830815715
 
 Berapapun donasi kalian akan sangat berarti 👍
-
 Thanks!
 
 Contact person Owner:
