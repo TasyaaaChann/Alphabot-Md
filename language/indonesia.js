@@ -12,7 +12,7 @@ exports.err = () => {
     return `⚠️ Fitur Sedang Error`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ Link error Goblok`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
